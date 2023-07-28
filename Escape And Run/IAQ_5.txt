@@ -1,0 +1,7 @@
+Question 5:
+    What is the currency name of India?
+
+a.Rupee
+b.Taka
+c.Duma
+d.Neset

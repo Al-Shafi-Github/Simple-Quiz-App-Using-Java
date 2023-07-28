@@ -1,0 +1,6 @@
+Question 1:
+    Who is the president of USA?
+a.Peter Wallace
+b.Joseph Estrada
+c.Fidel
+d.Donald Trump

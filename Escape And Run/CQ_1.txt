@@ -1,0 +1,6 @@
+Question 1:
+    How many players are in each Cricket Team?
+a.11
+b.15
+c.12
+d. 16

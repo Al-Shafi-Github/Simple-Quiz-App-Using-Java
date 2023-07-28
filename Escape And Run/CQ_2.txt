@@ -1,0 +1,6 @@
+Question 2:
+    Who is the "best player" in the Cricket Team?
+a.ViratKohli
+b.Sakib Al Hasan
+c.Steven Smith
+d. Mushfiqur Rahim
